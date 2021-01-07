@@ -13,4 +13,4 @@ UPDATE! 07.01.2021
 Fuxia 1.0.0 released
 
 game preview
-<img src="https://github.com/s1lentp4nther/Fuxia/main/img/fuxia_preview.png" alt="game preview">
+<img src="https://github.com/s1lentp4nther/Fuxia/blob/main/img/fuxia_preview.png" alt="game preview">
