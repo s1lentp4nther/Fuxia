@@ -6,7 +6,7 @@ Hey there!
 This game is still in development..., some versions will be released and game levels will be added.
 If you have some questions or ideas about this project, feel free to contact me (:
 
-You can find all releases in the subfolder release.
+You can find all releases in the "Releases" container
 
 ----------------------------------------------------------------------------------------------------------
 UPDATE! 07.01.2021
